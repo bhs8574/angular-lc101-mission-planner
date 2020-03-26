@@ -2,3 +2,12 @@
     display: flex;
     padding: 10px;
 }
+
+.crew {
+    background-color: lightgray;
+}
+
+
+.science {
+    background-color: lightgray;
+}
